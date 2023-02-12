@@ -6,4 +6,4 @@
 
 我们相信，教育是一项充满激情和创造力的事业，我们希望通过自己的努力，能够帮助更多的学生实现自己的梦想和目标。
 
-![team](/assets/images/team.jpg)
+![team](/assets/images/team.webp)

@@ -17,31 +17,31 @@
 
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
-      <div class="nav">
-        <input type="checkbox" id="nav-check">
-        <div class="nav-header">
-          <div class="nav-title">
-            {{ site.title | default: site.github.repository_name }}
+      <header>
+        <div class="nav">
+          <input type="checkbox" id="nav-check">
+          <div class="nav-header">
+            <div class="nav-title">
+              {{ site.title | default: site.github.repository_name }}
+            </div>
+          </div>
+          <div class="nav-btn">
+            <label for="nav-check">
+              <span></span>
+              <span></span>
+              <span></span>
+            </label>
+          </div>
+          <div class="nav-links">
+            <a href="/">首页</a>
+            <a href="/pages/theory.html">课程思政</a>
+            <a href="/pages/resources.html">教学资源</a>
+            <a href="/pages/contact.html">建议留言</a>
+            <a href="/pages/team.html">团队介绍</a>
           </div>
         </div>
-        <div class="nav-btn">
-          <label for="nav-check">
-            <span></span>
-            <span></span>
-            <span></span>
-          </label>
-        </div>
-        <div class="nav-links">
-          <a href="/">首页</a>
-          <a href="/pages/theory.html">课程思政</a>
-          <a href="/pages/resources.html">教学资源</a>
-          <a href="/pages/contact.html">建议留言</a>
-          <a href="/pages/team.html">团队介绍</a>
-        </div>
-      </div>
-      <header class="inner">
         <div id="header_bg">
-          <div class="inner">
+          <div class="spacer">
             <div id="site-title">
               <!-- <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1> -->
               <h1 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h1>
