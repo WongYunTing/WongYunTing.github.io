@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 github:
   is_project_page: false
-title: YunTing's Website
-description: YunTing's Website Description
+title: 高中语文课程思政教学库
+description: 高中语文课程思政教学库
+lang: zh-CN
