@@ -1,8 +1,12 @@
 # 教学资源
 
-[课程思政教学素材](./books/books.html)
+---
 
-[教学片段设计示例](./resources_examples.html)
+[![cursor](../assets/images/cursor.webp)课程思政教学素材](./books/books.html)
+
+[![cursor](../assets/images/cursor.webp)教学片段设计示例](./examples/examples.html)
+
+---
 
 高中语文课程的教学资源包括以下几个方面
 
