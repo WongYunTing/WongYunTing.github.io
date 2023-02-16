@@ -104,16 +104,19 @@ body {
       box-shadow: none;
     }
     img[alt$="_"] {
-      width: 150px;
+      width: 120px;
     }
     img[alt$=">"] {
+      width: 120px;
       float: right;
     }
     img[alt$="<"] {
+      width: 120px;
       float: left;
     }
     img[alt$="><"] {
       display: block;
+      width: 120px;
       max-width: 100%;
       height: auto;
       margin: auto;
