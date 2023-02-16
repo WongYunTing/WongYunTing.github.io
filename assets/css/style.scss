@@ -101,6 +101,23 @@ body {
       padding-top: 20px;
       width: 100%;
       max-width: 640px;
+      box-shadow: none;
+    }
+    img[alt$="_"] {
+      width: 150px;
+    }
+    img[alt$=">"] {
+      float: right;
+    }
+    img[alt$="<"] {
+      float: left;
+    }
+    img[alt$="><"] {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: auto;
+      float: none !important;
     }
   }
   .embed-container {
