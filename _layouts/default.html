@@ -6,10 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
-    <title>高中语文课程思政教学库</title>
-    <meta name="description" content="高中语文课程思政教学库" />
-    <meta property="og:description" content="高中语文课程思政教学库" />
-    <meta property="og:site_name" content="高中语文课程思政教学库" />
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <meta name="description" content="{{ site.title | default: site.github.repository_name }}" />
+    <meta property="og:description" content="{{ site.title | default: site.github.repository_name }}" />
+    <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
     <meta property="og:type" content="website" />
   </head>
 
@@ -61,7 +61,7 @@
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
       <footer class="inner">
-        <p class="copyright">©2023 高中语文课程思政教学库团队</p>
+        <p class="copyright">©2023 {{ site.title | default: site.github.repository_name }}团队</p>
       </footer>
     </div>
   </body>

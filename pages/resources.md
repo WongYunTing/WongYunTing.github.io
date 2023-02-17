@@ -2,9 +2,9 @@
 
 ---
 
-[![cursor](../assets/images/cursor.webp)课程思政教学素材](./books/books.html)
+[![cursor](/assets/images/cursor.webp)课程思政教学素材](/pages/books/books.html)
 
-[![cursor](../assets/images/cursor.webp)教学片段设计示例](./examples/examples.html)
+[![cursor](/assets/images/cursor.webp)教学片段设计示例](/pages/examples/examples.html)
 
 ---
 

@@ -1,6 +1,6 @@
 # 高中语文选择性必修下册
 
-![高中语文选择性必修下册 >](../../assets/images/book5_small.webp)
+![高中语文选择性必修下册 >](/assets/images/book5_small.webp)
 
 ## 第一单元
 
@@ -13,4 +13,4 @@
 
 - 3 ...
 
-![construction ><](../../assets/images/under_construction.webp)
+![construction ><](/assets/images/under_construction.webp)
