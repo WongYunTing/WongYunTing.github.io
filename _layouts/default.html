@@ -54,6 +54,15 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        <div id="breadcrumbs">
+          {% if page.breadcrumbs != nil %}
+            <a href="/">首页</a> /
+            {% for crumb in page.breadcrumbs %}
+              <a href="{{ crumb[1] }}">{{ crumb[0] }}</a> /
+            {% endfor %}
+            {{ page.title }}
+          {% endif %}
+        </div>
         {{ content }}
       </section>
     </div>
