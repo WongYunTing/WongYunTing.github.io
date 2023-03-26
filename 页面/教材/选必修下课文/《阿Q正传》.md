@@ -1,7 +1,7 @@
 ## 课程思政素材
 
 1. 联系《狂人日记》、《药》等鲁迅作品,感受旧时代对人的压迫，揭露民族精神创伤
-2. 结合课文，观看电影《阿Q正传》，体会旧时代对对人的压迫，发现民族精神创伤（https://www.iqiyi.com/v_19rrnz0w50.html?vfm=m_502_sgss&fc=bb04f8ebddb43838&fv=bf562ffc1cd15119&fromvsogou=1）
+2. 结合课文，观看电影《阿Q正传》，体会旧时代对人的压迫，发现民族精神创伤（https://www.iqiyi.com/v_19rrnz0w50.html?vfm=m_502_sgss&fc=bb04f8ebddb43838&fv=bf562ffc1cd15119&fromvsogou=1）
 3. 通过观看电视剧《觉醒年代》，体会并学习鲁迅等人在旧时代下不断探索救国之道的精神与情怀，学习时代杰出者的人生观、价值观（https://tv.cctv.com/2022/01/27/VIDEtqA3LO7oJ9V7kUqoCOW1220127.shtml?fromvsogou=1）
 ## 思政元素
 
