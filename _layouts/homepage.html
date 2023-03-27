@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css">
+    <title>{{ site.title | default: site.github.repository_name }}</title>
+    <meta name="description" content="{{ site.title | default: site.github.repository_name }}" />
+    <meta property="og:description" content="{{ site.title | default: site.github.repository_name }}" />
+    <meta property="og:site_name" content="{{ site.title | default: site.github.repository_name }}" />
+    <meta property="og:type" content="website" />
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+      <header>
+        <div class="nav">
+          <input type="checkbox" id="nav-check">
+          <div class="nav-header">
+            <div class="nav-title">
+              {{ site.title | default: site.github.repository_name }}
+            </div>
+          </div>
+          <div class="nav-btn">
+            <label for="nav-check">
+              <span></span>
+              <span></span>
+              <span></span>
+            </label>
+          </div>
+          <div class="nav-links">
+            <a href="/">首页</a>
+            <a href="/页面/课程思政.html">课程思政</a>
+            <a href="/页面/教学资源.html">教学资源</a>
+            <a href="/页面/建议留言.html">建议留言</a>
+            <a href="/页面/团队介绍.html">团队介绍</a>
+          </div>
+        </div>
+        <div id="header_bg" class="fullpage">
+          <div class="spacer">
+            <div id="site-title">
+              <!-- <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1> -->
+              <h1 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h1>
+            </div>
+            <div id="button">
+                <h1><a href="/页面/团队介绍.html">网站说明</a></h1>
+            </div>
+          </div>
+        </div>
+      </header>
+    </div>
+  </body>
+</html>

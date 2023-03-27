@@ -1,3 +1,9 @@
+---
+layout: homepage
+permalink: index.html
+title: 高中语文课程思政教学库
+---
+
 # 高中语文课程教学计划
 
 ## 教学目标
